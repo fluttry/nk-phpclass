@@ -8,6 +8,8 @@
 </head>
 <body>
     <?php
+    $X=15;
+    $Y=5;
      echo "sum of X and Y is :", $X+$Y;
     ?>
 </body>
